@@ -5,7 +5,7 @@ it again as an input file and read the information from the file.
 CODE -
 */
 
-#include<iostream>
+ #include<iostream>
 #include<fstream>
 using namespace std;
 class Employee              // declaring class employee
