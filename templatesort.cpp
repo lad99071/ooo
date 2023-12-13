@@ -1,12 +1,3 @@
-/*
-KSHITIJ RAMAKANT BHALSANE SE A 10
-PROBLEM STATEMENT - 
-Write a function template for selection sort that inputs, sorts and outputs an integer array and
-a float array.
-
-CODE -
-*/
-
 #include<iostream>
 #define size 20
 using namespace std;
